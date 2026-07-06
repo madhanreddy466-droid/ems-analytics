@@ -36,10 +36,10 @@ ANALYST_COLUMNS = ["id", "time", "analyst", "notes", "summary", "categories", "t
 
 
 def _to_df(records: list, columns: list[str]) -> pd.DataFrame:
-       if not records:
-           empty_cols = columns + ["parsed_time"] if "time" in columns else columns
-           return pd.DataFrame(columns=empty_cols)
-       df = pd.DataFrame(records)
+    if not records:
+        empty_cols = columns + ["parsed_time"] if "time" in columns else columns
+        return pd.DataFrame(columns=empty_cols)
+    df = pd.DataFrame(records)
     for col in columns:
         if col not in df.columns:
             df[col] = None
@@ -47,7 +47,6 @@ def _to_df(records: list, columns: list[str]) -> pd.DataFrame:
     if "time" in df.columns:
         df["parsed_time"] = pd.to_datetime(df["time"], errors="coerce", format="mixed")
     return df
-
 
 def issues_to_df(issues: list) -> pd.DataFrame:
     """Citizen-submitted issues -> DataFrame with a text column for NLP work."""
