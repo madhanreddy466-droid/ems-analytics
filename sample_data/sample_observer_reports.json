@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1783414177517,
+    "time": "7/6/2026, 2:10:00 PM",
+    "observer": "OBS2115268",
+    "area": "Booth #789, Region West",
+    "problem": "Machine malfunction, had to restart twice",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414178517,
+    "time": "7/6/2026, 7:36:00 AM",
+    "observer": "OBS2158612",
+    "area": "Booth #3311, District South",
+    "problem": "Crowd control issues, no distancing maintained",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414179517,
+    "time": "7/6/2026, 4:01:00 PM",
+    "observer": "OBS2073731",
+    "area": "Booth #2034, District A",
+    "problem": "Technical network issue delayed verification",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414180517,
+    "time": "7/6/2026, 5:16:00 PM",
+    "observer": "OBS2364264",
+    "area": "Booth #3311, District South",
+    "problem": "Reports of intimidation near the queue",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414181517,
+    "time": "7/6/2026, 8:07:00 AM",
+    "observer": "OBS2890174",
+    "area": "Booth #456, Region East",
+    "problem": "Well organized, positive turnout so far",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414182517,
+    "time": "7/6/2026, 2:19:00 PM",
+    "observer": "OBS2090056",
+    "area": "Booth #2034, District A",
+    "problem": "Crowd control issues, no distancing maintained",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414183517,
+    "time": "7/6/2026, 12:47:00 PM",
+    "observer": "OBS2277617",
+    "area": "Booth #456, Region East",
+    "problem": "Clash between two groups of supporters outside",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414184517,
+    "time": "7/6/2026, 7:13:00 AM",
+    "observer": "OBS2997180",
+    "area": "Booth #3311, District South",
+    "problem": "Reports of intimidation near the queue",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414185517,
+    "time": "7/6/2026, 6:34:00 PM",
+    "observer": "OBS2958551",
+    "area": "Booth #1245, District North",
+    "problem": "Missing staff member at registration desk",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414186517,
+    "time": "7/6/2026, 8:44:00 AM",
+    "observer": "OBS2886516",
+    "area": "Booth #789, Region West",
+    "problem": "Reports of intimidation near the queue",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414187517,
+    "time": "7/6/2026, 12:49:00 PM",
+    "observer": "OBS2233615",
+    "area": "Booth #3311, District South",
+    "problem": "Reports of intimidation near the queue",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414188517,
+    "time": "7/6/2026, 10:39:00 AM",
+    "observer": "OBS2850931",
+    "area": "Booth #2034, District A",
+    "problem": "All operations running smoothly, no concerns",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414189517,
+    "time": "7/6/2026, 6:51:00 PM",
+    "observer": "OBS2237753",
+    "area": "Booth #2034, District A",
+    "problem": "Well organized, positive turnout so far",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414190517,
+    "time": "7/6/2026, 6:01:00 PM",
+    "observer": "OBS2029294",
+    "area": "Booth #789, Region West",
+    "problem": "Well organized, positive turnout so far",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414191517,
+    "time": "7/6/2026, 10:44:00 AM",
+    "observer": "OBS2634534",
+    "area": "Booth #789, Region West",
+    "problem": "Well organized, positive turnout so far",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414192517,
+    "time": "7/6/2026, 12:23:00 PM",
+    "observer": "OBS2084450",
+    "area": "Booth #2034, District A",
+    "problem": "Crowd control issues, no distancing maintained",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414193517,
+    "time": "7/6/2026, 2:12:00 PM",
+    "observer": "OBS2354143",
+    "area": "Booth #2034, District A",
+    "problem": "Well organized, positive turnout so far",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414194517,
+    "time": "7/6/2026, 4:53:00 PM",
+    "observer": "OBS2002001",
+    "area": "Booth #456, Region East",
+    "problem": "Reports of intimidation near the queue",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414195517,
+    "time": "7/6/2026, 8:53:00 AM",
+    "observer": "OBS2692674",
+    "area": "Booth #1245, District North",
+    "problem": "Technical network issue delayed verification",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414196517,
+    "time": "7/6/2026, 7:12:00 PM",
+    "observer": "OBS2501253",
+    "area": "Booth #2034, District A",
+    "problem": "Technical network issue delayed verification",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414197517,
+    "time": "7/6/2026, 12:05:00 PM",
+    "observer": "OBS2839724",
+    "area": "Booth #456, Region East",
+    "problem": "Well organized, positive turnout so far",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414198517,
+    "time": "7/6/2026, 6:05:00 PM",
+    "observer": "OBS2760006",
+    "area": "Booth #2034, District A",
+    "problem": "Clash between two groups of supporters outside",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414199517,
+    "time": "7/6/2026, 7:09:00 AM",
+    "observer": "OBS2619511",
+    "area": "Booth #456, Region East",
+    "problem": "Clash between two groups of supporters outside",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414200517,
+    "time": "7/6/2026, 4:30:00 PM",
+    "observer": "OBS2689195",
+    "area": "Booth #789, Region West",
+    "problem": "Clash between two groups of supporters outside",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414201517,
+    "time": "7/6/2026, 3:08:00 PM",
+    "observer": "OBS2022436",
+    "area": "Booth #1245, District North",
+    "problem": "Crowd control issues, no distancing maintained",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414202517,
+    "time": "7/6/2026, 6:59:00 PM",
+    "observer": "OBS2146014",
+    "area": "Booth #456, Region East",
+    "problem": "All operations running smoothly, no concerns",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414203517,
+    "time": "7/6/2026, 7:16:00 AM",
+    "observer": "OBS2223115",
+    "area": "Booth #789, Region West",
+    "problem": "All operations running smoothly, no concerns",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414204517,
+    "time": "7/6/2026, 12:16:00 PM",
+    "observer": "OBS2570795",
+    "area": "Booth #456, Region East",
+    "problem": "Clash between two groups of supporters outside",
+    "photos": [],
+    "status": "Submitted"
+  },
+  {
+    "id": 1783414205517,
+    "time": "7/6/2026, 6:22:00 PM",
+    "observer": "OBS2941310",
+    "area": "Booth #456, Region East",
+    "problem": "Technical network issue delayed verification",
+    "photos": [],
+    "status": "Resolved"
+  },
+  {
+    "id": 1783414206517,
+    "time": "7/6/2026, 9:34:00 AM",
+    "observer": "OBS2159211",
+    "area": "Booth #3311, District South",
+    "problem": "Machine malfunction, had to restart twice",
+    "photos": [],
+    "status": "Submitted"
+  }
+]

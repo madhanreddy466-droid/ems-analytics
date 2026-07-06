@@ -1,0 +1,597 @@
+{
+  "issues": [
+    {
+      "id": 1783314177517,
+      "time": "7/6/2026, 12:09:00 PM",
+      "user": "APZ1414002",
+      "issue": "Long queue at the booth, waited over an hour",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314178517,
+      "time": "7/6/2026, 3:06:00 PM",
+      "user": "APZ1383452",
+      "issue": "Long queue at the booth, waited over an hour",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314179517,
+      "time": "7/6/2026, 10:02:00 AM",
+      "user": "APZ1090122",
+      "issue": "Booth was clean and volunteers were very helpful",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314180517,
+      "time": "7/6/2026, 8:15:00 AM",
+      "user": "APZ1095119",
+      "issue": "Booth was clean and volunteers were very helpful",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314181517,
+      "time": "7/6/2026, 4:07:00 PM",
+      "user": "APZ1993473",
+      "issue": "Everything was smooth and well organized, thank you",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314182517,
+      "time": "7/6/2026, 5:37:00 PM",
+      "user": "APZ1993744",
+      "issue": "Long queue at the booth, waited over an hour",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314183517,
+      "time": "7/6/2026, 4:25:00 PM",
+      "user": "APZ1051998",
+      "issue": "Everything was smooth and well organized, thank you",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314184517,
+      "time": "7/6/2026, 3:54:00 PM",
+      "user": "APZ1139643",
+      "issue": "Suspicious individuals near the entrance, felt intimidated",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314185517,
+      "time": "7/6/2026, 9:34:00 AM",
+      "user": "APZ1123514",
+      "issue": "Suspicious individuals near the entrance, felt intimidated",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314186517,
+      "time": "7/6/2026, 5:11:00 PM",
+      "user": "APZ1108061",
+      "issue": "Everything was smooth and well organized, thank you",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314187517,
+      "time": "7/6/2026, 8:35:00 AM",
+      "user": "APZ1746702",
+      "issue": "EVM machine showing an error message",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314188517,
+      "time": "7/6/2026, 7:39:00 AM",
+      "user": "APZ1215963",
+      "issue": "Heard about bribing near the parking area, unconfirmed",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314189517,
+      "time": "7/6/2026, 3:27:00 PM",
+      "user": "APZ1814983",
+      "issue": "Power outage caused delays for 30 minutes",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314190517,
+      "time": "7/6/2026, 4:59:00 PM",
+      "user": "APZ1475198",
+      "issue": "Power outage caused delays for 30 minutes",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314191517,
+      "time": "7/6/2026, 10:50:00 AM",
+      "user": "APZ1188499",
+      "issue": "Everything was smooth and well organized, thank you",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314192517,
+      "time": "7/6/2026, 4:19:00 PM",
+      "user": "APZ1550708",
+      "issue": "Heard about bribing near the parking area, unconfirmed",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314193517,
+      "time": "7/6/2026, 6:28:00 PM",
+      "user": "APZ1301924",
+      "issue": "EVM machine showing an error message",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314194517,
+      "time": "7/6/2026, 3:26:00 PM",
+      "user": "APZ1172975",
+      "issue": "Power outage caused delays for 30 minutes",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314195517,
+      "time": "7/6/2026, 2:26:00 PM",
+      "user": "APZ1041111",
+      "issue": "EVM machine showing an error message",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314196517,
+      "time": "7/6/2026, 4:50:00 PM",
+      "user": "APZ1918005",
+      "issue": "Power outage caused delays for 30 minutes",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314197517,
+      "time": "7/6/2026, 6:22:00 PM",
+      "user": "APZ1623241",
+      "issue": "Heard about bribing near the parking area, unconfirmed",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314198517,
+      "time": "7/6/2026, 7:29:00 PM",
+      "user": "APZ1072103",
+      "issue": "EVM machine showing an error message",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314199517,
+      "time": "7/6/2026, 2:44:00 PM",
+      "user": "APZ1696414",
+      "issue": "EVM machine showing an error message",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314200517,
+      "time": "7/6/2026, 6:44:00 PM",
+      "user": "APZ1324646",
+      "issue": "Heard about bribing near the parking area, unconfirmed",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314201517,
+      "time": "7/6/2026, 6:24:00 PM",
+      "user": "APZ1930129",
+      "issue": "Power outage caused delays for 30 minutes",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314202517,
+      "time": "7/6/2026, 2:22:00 PM",
+      "user": "APZ1176211",
+      "issue": "EVM machine showing an error message",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314203517,
+      "time": "7/6/2026, 7:13:00 AM",
+      "user": "APZ1805550",
+      "issue": "Suspicious individuals near the entrance, felt intimidated",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314204517,
+      "time": "7/6/2026, 6:15:00 PM",
+      "user": "APZ1417225",
+      "issue": "Booth was clean and volunteers were very helpful",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314205517,
+      "time": "7/6/2026, 8:10:00 AM",
+      "user": "APZ1471007",
+      "issue": "Booth was clean and volunteers were very helpful",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314206517,
+      "time": "7/6/2026, 11:56:00 AM",
+      "user": "APZ1143577",
+      "issue": "Booth was clean and volunteers were very helpful",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314207517,
+      "time": "7/6/2026, 11:45:00 AM",
+      "user": "APZ1435469",
+      "issue": "Power outage caused delays for 30 minutes",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314208517,
+      "time": "7/6/2026, 1:14:00 PM",
+      "user": "APZ1158252",
+      "issue": "EVM machine showing an error message",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314209517,
+      "time": "7/6/2026, 9:14:00 AM",
+      "user": "APZ1690504",
+      "issue": "Everything was smooth and well organized, thank you",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314210517,
+      "time": "7/6/2026, 2:53:00 PM",
+      "user": "APZ1617740",
+      "issue": "No staff present at the counter this morning",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314211517,
+      "time": "7/6/2026, 11:00:00 AM",
+      "user": "APZ1152752",
+      "issue": "Booth was clean and volunteers were very helpful",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314212517,
+      "time": "7/6/2026, 12:39:00 PM",
+      "user": "APZ1593851",
+      "issue": "Power outage caused delays for 30 minutes",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314213517,
+      "time": "7/6/2026, 6:54:00 PM",
+      "user": "APZ1540531",
+      "issue": "Long queue at the booth, waited over an hour",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314214517,
+      "time": "7/6/2026, 7:55:00 PM",
+      "user": "APZ1713634",
+      "issue": "Booth was clean and volunteers were very helpful",
+      "status": "Pending",
+      "photo": ""
+    },
+    {
+      "id": 1783314215517,
+      "time": "7/6/2026, 1:25:00 PM",
+      "user": "APZ1108566",
+      "issue": "Heard about bribing near the parking area, unconfirmed",
+      "status": "Solved",
+      "photo": ""
+    },
+    {
+      "id": 1783314216517,
+      "time": "7/6/2026, 1:03:00 PM",
+      "user": "APZ1199868",
+      "issue": "EVM machine showing an error message",
+      "status": "Pending",
+      "photo": ""
+    }
+  ],
+  "observer_reports": [
+    {
+      "id": 1783414177517,
+      "time": "7/6/2026, 2:10:00 PM",
+      "observer": "OBS2115268",
+      "area": "Booth #789, Region West",
+      "problem": "Machine malfunction, had to restart twice",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414178517,
+      "time": "7/6/2026, 7:36:00 AM",
+      "observer": "OBS2158612",
+      "area": "Booth #3311, District South",
+      "problem": "Crowd control issues, no distancing maintained",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414179517,
+      "time": "7/6/2026, 4:01:00 PM",
+      "observer": "OBS2073731",
+      "area": "Booth #2034, District A",
+      "problem": "Technical network issue delayed verification",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414180517,
+      "time": "7/6/2026, 5:16:00 PM",
+      "observer": "OBS2364264",
+      "area": "Booth #3311, District South",
+      "problem": "Reports of intimidation near the queue",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414181517,
+      "time": "7/6/2026, 8:07:00 AM",
+      "observer": "OBS2890174",
+      "area": "Booth #456, Region East",
+      "problem": "Well organized, positive turnout so far",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414182517,
+      "time": "7/6/2026, 2:19:00 PM",
+      "observer": "OBS2090056",
+      "area": "Booth #2034, District A",
+      "problem": "Crowd control issues, no distancing maintained",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414183517,
+      "time": "7/6/2026, 12:47:00 PM",
+      "observer": "OBS2277617",
+      "area": "Booth #456, Region East",
+      "problem": "Clash between two groups of supporters outside",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414184517,
+      "time": "7/6/2026, 7:13:00 AM",
+      "observer": "OBS2997180",
+      "area": "Booth #3311, District South",
+      "problem": "Reports of intimidation near the queue",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414185517,
+      "time": "7/6/2026, 6:34:00 PM",
+      "observer": "OBS2958551",
+      "area": "Booth #1245, District North",
+      "problem": "Missing staff member at registration desk",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414186517,
+      "time": "7/6/2026, 8:44:00 AM",
+      "observer": "OBS2886516",
+      "area": "Booth #789, Region West",
+      "problem": "Reports of intimidation near the queue",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414187517,
+      "time": "7/6/2026, 12:49:00 PM",
+      "observer": "OBS2233615",
+      "area": "Booth #3311, District South",
+      "problem": "Reports of intimidation near the queue",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414188517,
+      "time": "7/6/2026, 10:39:00 AM",
+      "observer": "OBS2850931",
+      "area": "Booth #2034, District A",
+      "problem": "All operations running smoothly, no concerns",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414189517,
+      "time": "7/6/2026, 6:51:00 PM",
+      "observer": "OBS2237753",
+      "area": "Booth #2034, District A",
+      "problem": "Well organized, positive turnout so far",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414190517,
+      "time": "7/6/2026, 6:01:00 PM",
+      "observer": "OBS2029294",
+      "area": "Booth #789, Region West",
+      "problem": "Well organized, positive turnout so far",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414191517,
+      "time": "7/6/2026, 10:44:00 AM",
+      "observer": "OBS2634534",
+      "area": "Booth #789, Region West",
+      "problem": "Well organized, positive turnout so far",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414192517,
+      "time": "7/6/2026, 12:23:00 PM",
+      "observer": "OBS2084450",
+      "area": "Booth #2034, District A",
+      "problem": "Crowd control issues, no distancing maintained",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414193517,
+      "time": "7/6/2026, 2:12:00 PM",
+      "observer": "OBS2354143",
+      "area": "Booth #2034, District A",
+      "problem": "Well organized, positive turnout so far",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414194517,
+      "time": "7/6/2026, 4:53:00 PM",
+      "observer": "OBS2002001",
+      "area": "Booth #456, Region East",
+      "problem": "Reports of intimidation near the queue",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414195517,
+      "time": "7/6/2026, 8:53:00 AM",
+      "observer": "OBS2692674",
+      "area": "Booth #1245, District North",
+      "problem": "Technical network issue delayed verification",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414196517,
+      "time": "7/6/2026, 7:12:00 PM",
+      "observer": "OBS2501253",
+      "area": "Booth #2034, District A",
+      "problem": "Technical network issue delayed verification",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414197517,
+      "time": "7/6/2026, 12:05:00 PM",
+      "observer": "OBS2839724",
+      "area": "Booth #456, Region East",
+      "problem": "Well organized, positive turnout so far",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414198517,
+      "time": "7/6/2026, 6:05:00 PM",
+      "observer": "OBS2760006",
+      "area": "Booth #2034, District A",
+      "problem": "Clash between two groups of supporters outside",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414199517,
+      "time": "7/6/2026, 7:09:00 AM",
+      "observer": "OBS2619511",
+      "area": "Booth #456, Region East",
+      "problem": "Clash between two groups of supporters outside",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414200517,
+      "time": "7/6/2026, 4:30:00 PM",
+      "observer": "OBS2689195",
+      "area": "Booth #789, Region West",
+      "problem": "Clash between two groups of supporters outside",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414201517,
+      "time": "7/6/2026, 3:08:00 PM",
+      "observer": "OBS2022436",
+      "area": "Booth #1245, District North",
+      "problem": "Crowd control issues, no distancing maintained",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414202517,
+      "time": "7/6/2026, 6:59:00 PM",
+      "observer": "OBS2146014",
+      "area": "Booth #456, Region East",
+      "problem": "All operations running smoothly, no concerns",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414203517,
+      "time": "7/6/2026, 7:16:00 AM",
+      "observer": "OBS2223115",
+      "area": "Booth #789, Region West",
+      "problem": "All operations running smoothly, no concerns",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414204517,
+      "time": "7/6/2026, 12:16:00 PM",
+      "observer": "OBS2570795",
+      "area": "Booth #456, Region East",
+      "problem": "Clash between two groups of supporters outside",
+      "photos": [],
+      "status": "Submitted"
+    },
+    {
+      "id": 1783414205517,
+      "time": "7/6/2026, 6:22:00 PM",
+      "observer": "OBS2941310",
+      "area": "Booth #456, Region East",
+      "problem": "Technical network issue delayed verification",
+      "photos": [],
+      "status": "Resolved"
+    },
+    {
+      "id": 1783414206517,
+      "time": "7/6/2026, 9:34:00 AM",
+      "observer": "OBS2159211",
+      "area": "Booth #3311, District South",
+      "problem": "Machine malfunction, had to restart twice",
+      "photos": [],
+      "status": "Submitted"
+    }
+  ],
+  "analyst_reports": []
+}
